@@ -1,0 +1,18 @@
+{
+  "name": "backend-kkw",
+  "version": "1.0.0",
+  "main": "sever.js",
+  "repository": "https://github.com/psmever/backend-kkw.git",
+  "author": "psmever <psmever@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "lodash": "^4.17.20",
+    "mysql": "^2.18.1"
+  },
+  "scripts": {
+    "start": "node server"
+  }
+}
