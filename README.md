@@ -71,7 +71,7 @@ http://localhost:3000/users
 }
 ```
 
-### 사용자 로그인.
+### 사용자 로그인.
 
 ```
 method: POST
